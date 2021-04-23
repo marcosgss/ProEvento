@@ -1,7 +1,7 @@
 // Para o caso de querer rodar o dotnet em outra versão, como, por exemplo, a versão que é utilizada no curso: 5.0.102
 
-/*{
+{
     "sdk": {
         "version": "5.0.102"
     }
-}*/
+}
